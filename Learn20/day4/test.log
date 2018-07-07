@@ -1,0 +1,15 @@
+2018-06-26 08:34:14,118 - root - DEBUG - debug message
+2018-06-26 08:34:14,118 - root - INFO - info message
+2018-06-26 08:34:14,118 - root - WARNING - warning message
+2018-06-26 08:34:14,118 - root - ERROR - error message
+2018-06-26 08:34:14,118 - root - CRITICAL - critical message
+2018-06-26 08:50:31,660 - root - DEBUG - debug message
+2018-06-26 08:50:31,660 - root - INFO - info message
+2018-06-26 08:50:31,660 - root - WARNING - warning message
+2018-06-26 08:50:31,660 - root - ERROR - error message
+2018-06-26 08:50:31,660 - root - CRITICAL - critical message
+2018-06-26 08:56:17,320 - root - DEBUG - debug message
+2018-06-26 08:56:17,320 - root - INFO - info message
+2018-06-26 08:56:17,320 - root - WARNING - warning message
+2018-06-26 08:56:17,324 - root - ERROR - error message
+2018-06-26 08:56:17,324 - root - CRITICAL - critical message

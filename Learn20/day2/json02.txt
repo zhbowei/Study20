@@ -1,0 +1,48 @@
+{
+              "code": "12",
+              "date": "01 Jun 2018",
+              "day": "Fri",
+              "high": "80",
+              "low": "63",
+              "text": "Rain"
+            },
+            {
+              "code": "47",
+              "date": "02 Jun 2018",
+              "day": "Sat",
+              "high": "83",
+              "low": "68",
+              "text": "Scattered Thunderstorms"
+            },
+            {
+              "code": "28",
+              "date": "03 Jun 2018",
+              "day": "Sun",
+              "high": "67",
+              "low": "54",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "28",
+              "date": "04 Jun 2018",
+              "day": "Mon",
+              "high": "62",
+              "low": "53",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "47",
+              "date": "05 Jun 2018",
+              "day": "Tue",
+              "high": "71",
+              "low": "56",
+              "text": "Scattered Thunderstorms"
+            },
+            {
+              "code": "30",
+              "date": "06 Jun 2018",
+              "day": "Wed",
+              "high": "70",
+              "low": "56",
+              "text": "Partly Cloudy"
+            }
